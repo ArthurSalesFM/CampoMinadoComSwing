@@ -16,4 +16,4 @@ Jogo Campo minado utilizando Swing do Eclipse
 * *Stream*
 * *Lambda Expression*
 * *Programação Funcional*
-* *Tratamento exceção*
+* *Tratamento de exceções*
